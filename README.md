@@ -13,9 +13,6 @@
 ### Demo Screeshots
 
 ![Tripiez Desktop Demo](./readme-images/Screenshot%20(16).png "Desktop Demo")
-![Tripiez Desktop Demo](./readme-images/Screenshot%20(17).png. "Desktop Demo")
-![Tripiez Desktop Demo](./readme-images/Screenshot%20(18).png. "Desktop Demo")
-![Tripiez Desktop Demo](./readme-images/Screenshot%20(19).png. "Desktop Demo")
 
 ## Car Rental Website
 >i have create a car rental website using HTML,CSS,JavaScript.
