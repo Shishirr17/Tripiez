@@ -4,7 +4,7 @@
 
   This is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://Shishirr17.github.io/XenonStack/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Shishirr17.github.io/XenonStack/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
